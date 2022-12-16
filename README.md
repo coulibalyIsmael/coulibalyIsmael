@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @coulibalyIsmael
 - 👀 I’m interested in Deep learning, Computer vision, Reinforcement learning, Web 
 - 🌱 I’m currently learning Fast.ai, Pytorch, OpenCV, Java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Nothing yet 
 - 📫 How to reach me coulibaly.ismaelhassan@gmail.com
 
 <!---
